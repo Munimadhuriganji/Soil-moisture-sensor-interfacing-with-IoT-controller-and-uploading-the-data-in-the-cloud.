@@ -1,6 +1,6 @@
 ## NAME : GANJI MUNI MADHURI
 ## REG NO : 212223230060
-# Ex - 05 Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud.
+# Ex  05 Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud.
 
 # AIM:
 To upload the Soil-moisture sensor value in the Things mate using Arduino controller.
